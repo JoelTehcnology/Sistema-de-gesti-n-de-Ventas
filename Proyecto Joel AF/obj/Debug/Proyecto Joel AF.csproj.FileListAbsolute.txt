@@ -1,0 +1,188 @@
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.AssemblyReference.cache
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Inicio.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Login.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Properties.Resources.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.GenerateResource.cache
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.CoreCompileInputs.cache
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto.9EC8FC8A.Up2Date
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaEntidad.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaNegocio.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaDatos.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaEntidad.pdb
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaNegocio.pdb
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaDatos.pdb
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmCategoria.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmClientes.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmCompras.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmProducto.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmProveedor.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmReportes.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmUsuarios.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmventas.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmDetalleCompra.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmDetalleVenta.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ClosedXML.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\Irony.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SixLabors.Fonts.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Buffers.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.IO.Packaging.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Memory.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\XLParser.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ClosedXML.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SixLabors.Fonts.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Buffers.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.IO.Packaging.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Memory.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmNegocio.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdProveedor.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdproducto.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\Proyecto Joel AF.exe.config
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\Proyecto Joel AF.exe.manifest
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\Proyecto Joel AF.application
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\Proyecto Joel AF.exe
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\Proyecto Joel AF.pdb
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaEntidad.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaNegocio.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ClosedXML.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\DocumentFormat.OpenXml.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ExcelNumberFormat.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\FontAwesome.Sharp.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\Irony.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SixLabors.Fonts.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Buffers.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.IO.Packaging.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Memory.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Numerics.Vectors.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\XLParser.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaDatos.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaEntidad.pdb
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaNegocio.pdb
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ClosedXML.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\DocumentFormat.OpenXml.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ExcelNumberFormat.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SixLabors.Fonts.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Buffers.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.IO.Packaging.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Memory.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Numerics.Vectors.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaDatos.pdb
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.AssemblyReference.cache
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmCategoria.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmClientes.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmCompras.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmDetalleCompra.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmDetalleVenta.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmNegocio.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmProducto.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmProveedor.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmReportes.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmUsuarios.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmVentas.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Inicio.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Login.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdproducto.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdProveedor.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Properties.Resources.resources
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.GenerateResource.cache
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.CoreCompileInputs.cache
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.exe.manifest
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.application
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto.9EC8FC8A.Up2Date
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.exe
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.pdb
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\BouncyCastle.Crypto.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.xmlworker.dll
+E:\IMPORTANTES\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.xml
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdCliente.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmReporteVentas.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmReporteCompras.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdAcercade.resources
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.exe.config
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.exe.manifest
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.application
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.exe
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.pdb
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\SistemaVentas.exe.manifest
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\SistemaVentas.application
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\SistemaVentas.exe
+C:\Users\joelr\Desktop\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\SistemaVentas.pdb
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.exe.config
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.exe.manifest
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.application
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.exe
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SistemaVentas.pdb
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaEntidad.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaNegocio.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ClosedXML.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\Irony.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SixLabors.Fonts.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Buffers.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.IO.Packaging.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Memory.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\XLParser.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaDatos.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaEntidad.pdb
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaNegocio.pdb
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ClosedXML.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\itextsharp.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\SixLabors.Fonts.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Buffers.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.IO.Packaging.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Memory.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\bin\Debug\CapaDatos.pdb
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.AssemblyReference.cache
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmCategoria.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmClientes.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmCompras.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmDetalleCompra.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmDetalleVenta.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmNegocio.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmProducto.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmProveedor.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmReporteCompras.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmReportes.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmReporteVentas.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmUsuarios.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.frmVentas.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Inicio.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Login.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdAcercade.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdCliente.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdproducto.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Modales.mdProveedor.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto_Joel_AF.Properties.Resources.resources
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.GenerateResource.cache
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto Joel AF.csproj.CoreCompileInputs.cache
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\SistemaVentas.exe.manifest
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\SistemaVentas.application
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\Proyecto.9EC8FC8A.Up2Date
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\SistemaVentas.exe
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\Proyecto Joel AF\obj\Debug\SistemaVentas.pdb

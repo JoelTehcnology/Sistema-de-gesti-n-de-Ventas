@@ -1,0 +1,16 @@
+Sistema de Gestión de Ventas
+
+Este sistema de gestión de ventas está diseñado para optimizar las operaciones comerciales, proporcionando un control eficaz sobre las ventas y las compras. Cuenta con un sistema de login que permite el acceso a través de dos roles: Administrador y Empleado.
+
+Administrador: Tiene acceso completo a todas las funcionalidades del sistema, incluyendo la gestión de usuarios, productos, inventarios, y reportes.
+
+Empleado: Tiene un acceso limitado, enfocado en la gestión diaria de ventas y atención al cliente.
+El sistema incluye un módulo de inventario que permite un control detallado de productos y servicios, facilitando la gestión tanto de las ventas como de las compras. Además, ofrece la opción de exportar los detalles de las compras y ventas en formatos PDF y Excel, lo que facilita la generación de reportes y la integración con otras herramientas.
+
+Este sistema es ideal para pequeñas y medianas empresas que buscan una solución completa y accesible para gestionar sus operaciones de venta.
+
+LA CONTRASEÑA Y USUARIO PARA ADMINISTRADOR ES: USUARIO 1 CONTRASEÑA 2
+
+LA CONTRASEÑA Y USUARIO PARA EMPLEADO ES: USUARIO 3 CONTRASEÑA 4
+
+OJO: ESAS CREDENCIALES FUNCIONARAN SOLO SI INSERTASTE LOS DATOS TAL Y COMO ESTA EN LA BASE DE DATOS.

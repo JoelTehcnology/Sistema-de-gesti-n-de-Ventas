@@ -1,0 +1,12 @@
+C:\Users\joelr\Desktop\Proyecto Joel AF\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\joelr\Desktop\Proyecto Joel AF\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\joelr\Desktop\Proyecto Joel AF\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\joelr\Desktop\Proyecto Joel AF\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\joelr\Desktop\Proyecto Joel AF\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\joelr\Desktop\GIHUB\Proyecto Joel AF\CapaEntidad\obj\Debug\CapaEntidad.pdb
